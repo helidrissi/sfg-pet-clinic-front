@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sfg-pet-clinic-front"
+    }
+  },
+  "defaultProject": "sfg-pet-clinic-front",
+  "cli": {
+    "analytics": "6237756f-d63f-4aaf-a1b7-f5dd92a73b91"
+  }
 }
